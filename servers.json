@@ -2,23 +2,26 @@
   "servers": [
     {
       "country": "Germany",
+      "country_code": "DE",
       "configs": [
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/germany_1.ovpn",
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/germany_2.ovpn"
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/germany_1.ovpn",
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/germany_2.ovpn"
       ]
     },
     {
-      "country": "UK",
+      "country": "United Kingdom",
+      "country_code": "GB",
       "configs": [
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/uk_1.ovpn",
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/uk_2.ovpn"
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/uk_1.ovpn",
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/uk_2.ovpn"
       ]
     },
     {
-      "country": "USA",
+      "country": "United States",
+      "country_code": "US",
       "configs": [
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/usa_1.ovpn",
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/usa_2.ovpn"
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/usa_1.ovpn",
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/usa_2.ovpn"
       ]
     }
   ]
