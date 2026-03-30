@@ -1,24 +1,9 @@
 {
   "servers": [
     {
-      "country": "Germany",
-      "configs": [
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/germany_1.ovpn",
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/germany_2.ovpn"
-      ]
-    },
-    {
-      "country": "UK",
-      "configs": [
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/uk_1.ovpn",
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/uk_2.ovpn"
-      ]
-    },
-    {
       "country": "USA",
       "configs": [
         "https://github.com/wajeeh-hassan/vpn_configs/blob/main/usa_1.ovpn",
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/usa_2.ovpn"
       ]
     }
   ]
