@@ -2,6 +2,9 @@
   "servers": [
     {
       "country": "USA",
+      "country_code": "US",
+      "username": "vpnbook",
+      "password": "9hpb28f",
       "configs": [
         "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/usa_1.ovpn"
       ]
