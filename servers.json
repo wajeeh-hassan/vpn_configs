@@ -3,7 +3,7 @@
     {
       "country": "USA",
       "configs": [
-        "https://github.com/wajeeh-hassan/vpn_configs/blob/main/usa_1.ovpn"
+        "https://raw.githubusercontent.com/wajeeh-hassan/vpn_configs/main/usa_1.ovpn"
       ]
     }
   ]
